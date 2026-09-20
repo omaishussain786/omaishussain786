@@ -46,8 +46,7 @@ I'm a B.Tech CSE student interested in:
 🔹 Arduino Bluetooth Car  
 🔹 Speed Breaker Electricity Generation System  
 🔹 Gas Leak Detector  
-🔹 Web Development Projects  
-🔹 C/C++ Data Structures Projects
+🔹 UniSphere
 
 ---
 
