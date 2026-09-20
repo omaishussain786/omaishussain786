@@ -62,8 +62,10 @@ I'm a B.Tech CSE student interested in:
 
 ## 📫 Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/omaishussain786)## Hi there 👋
-[![Email]hussainomais509@gmail.com
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/omaishussain786)
+##Email--> hussainomais509@gmail.com
+## Hi there 👋
+
 
 <!--
 **omaishussain786/omaishussain786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
