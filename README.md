@@ -47,6 +47,7 @@ I'm a B.Tech CSE student interested in:
 🔹 Speed Breaker Electricity Generation System  
 🔹 Gas Leak Detector  
 🔹 UniSphere
+🔹 Programming Error Explainer
 
 ---
 
